@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppFont">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="AppFontColorPrimary" parent="AppFont">
+        <item name="android:textColor">@color/colorAppFontColorPrimary</item>
+    </style>
+
+    <style name="AppFontColorLight" parent="AppFont">
+        <item name="android:textColor">@color/colorAppFontColorLight</item>
+    </style>
+
+    <style name="AppSmallText" parent="AppFontColorPrimary">
+        <item name="android:textSize">@dimen/size_smallText</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppMediumText" parent="AppFontColorPrimary">
+        <item name="android:textSize">@dimen/size_mediumText</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="AppLargeText" parent="AppFontColorPrimary">
+        <item name="android:textSize">@dimen/size_largeText</item>
+    </style>
+
+    <style name="AppExtraLargeText" parent="AppFontColorPrimary">
+        <item name="android:textSize">@dimen/size_extraLargeText</item>
+    </style>
+
+    <style name="AppExtraLargeTextLight" parent="AppFontColorLight">
+        <item name="android:textSize">@dimen/size_extraLargeText</item>
+    </style>
+</resources>

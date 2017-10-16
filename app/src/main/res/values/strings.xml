@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Styles And Themes Demo</string>
+    <string name="button_explode">Move to Second Activity with Explode</string>
+    <string name="smallText">Small Text</string>
+    <string name="mediumText">Medium Text</string>
+    <string name="largeText">Large Text</string>
+    <string name="extraLargeText">Extra Large Text</string>
+    <string name="extraLargeLight">Extra Large Light Text</string>
+    <string name="radioButton">My Radio Button</string>
+    <string name="gradient">Text with Gradient</string>
+    <string name="shadow">Text with Shadow</string>
+    <string name="buttonDrawable">Button with Image</string>
+    <string name="buttonColor">Button with Color</string>
+    <string name="secondActivity">Second Activity</string>
+    <string name="button">Some button</string>
+</resources>

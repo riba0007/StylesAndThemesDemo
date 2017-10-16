@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_padding">20dp</dimen>
+
+    <dimen name="size_smallText">12dp</dimen>
+    <dimen name="size_mediumText">16sp</dimen>
+    <dimen name="size_largeText">18sp</dimen>
+    <dimen name="size_extraLargeText">22sp</dimen>
+    <dimen name="size_radioButton">30sp</dimen>
+    <dimen name="size_extraExtraLargeText">40sp</dimen>
+
+    <dimen name="buttonWidth">250dp</dimen>
+    <dimen name="buttonHeight">50dp</dimen>
+</resources>

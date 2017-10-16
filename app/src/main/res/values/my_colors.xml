@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAppFontColorPrimary">#616161</color>
+    <color name="colorAppFontColorLight">#909090</color>
+    <color name="colorRadioButton">#6789ab</color>
+    <color name="colorTextShadow">#5000</color>
+
+    <color name="red">#f44336</color>
+    <color name="blue">#4d4da7</color>
+</resources>
